@@ -1,3 +1,8 @@
+# Folders
 venv/
-datasets/
-jupyter_notebooks/lesson_1.2.ipynb
+models/
+
+# Jupyter Notebooks
+jupyter_notebooks/lesson_x.x.ipynb
+
+# Datasets
